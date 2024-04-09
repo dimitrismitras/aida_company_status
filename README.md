@@ -1,6 +1,7 @@
 # company_status
 Classification python code, for companies status 
-## Check report for detaiols and results
+
+### Check report for details and results
 
 GitHub Repository: https://github.com/dimitrismitras/aida_company_status
 
